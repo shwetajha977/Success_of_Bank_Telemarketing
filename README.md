@@ -1,4 +1,4 @@
-# Success_of_Bank_Telemarketing (Machine Learning Project)
+# Success of Bank Telemarketing (Machine Learning Project)
 
 ## Overview
 This project explores the success of bank telemarketing campaigns using machine learning techniques. It employs a Multi-Layer Perceptron (MLP) to predict customer responses based on a dataset of telemarketing activities. The goal is to analyze patterns in customer behavior and provide insights to optimize telemarketing efforts.
